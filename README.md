@@ -1,4 +1,4 @@
 wagtail-pt_PT-translation
 =========================
 
-Wagtail localization files por pt_Pt
+Wagtail 0.5.0 localization files por pt_Pt
